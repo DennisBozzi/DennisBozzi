@@ -1,4 +1,4 @@
-### Eai! Me chamo Dennis Bozzi! 😁
+### Olá!!! Me chamo Dennis Bozzi! 😁
 
 - 🌱 Atualmente estou estudando: C# e JAVA
 - 🤔 Gostaria de um emprego/estágio para aprender mais sobre desenvolvimento de softwares
