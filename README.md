@@ -1,8 +1,8 @@
 <h1 style="text-align:center;">Olá! Me chamo Dennis</h1>
 
-- 🌱 Atualmente estou estudando: C# e JAVA
-- 📫 Contate-me: devbozzii@gmail.com 
-- 😄 Pronomes: ele/dele
+🌱 Atualmente estou estudando: C# e JAVA
+📫 Contate-me: devbozzii@gmail.com 
+😄 Pronomes: ele/dele
 
 <div width="100%" align="center">
   <a href="https://github.com/DennisBozzi">
