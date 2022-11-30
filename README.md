@@ -1,4 +1,4 @@
-### Olá!!! Me chamo Dennis Bozzi! 😁
+<h1 style="text-align:center;">Elá! Me chamo Dennis</h1>
 
 - 🌱 Atualmente estou estudando: C# e JAVA
 - 📫 Contate-me: devbozzii@gmail.com 
