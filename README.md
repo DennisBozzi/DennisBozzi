@@ -1,7 +1,6 @@
 ### Olá!!! Me chamo Dennis Bozzi! 😁
 
 - 🌱 Atualmente estou estudando: C# e JAVA
-- 😆 Com um estagio meu tempo seria voltado totalmente aos estudos
 - 📫 Contate-me: devbozzii@gmail.com 
 - 😄 Pronomes: ele/dele
 
