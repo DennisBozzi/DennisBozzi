@@ -14,8 +14,9 @@
 <div width="100%" align="center" margin="0 0 10 0"><br>
   <img align="center" alt="Dennis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dennis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <i class="devicon-github-original">Oi</i>
 </div>
+
+<div></div>
 
 <div margin-top"10px" width="100%" align="center">
   <a href="https://instagram.com/dennisbozzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
