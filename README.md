@@ -1,6 +1,6 @@
 <h1 width="100%" align="center">Olá! Me chamo Dennis</h1>
 
-🌱 Atualmente estou estudando: C# e JAVA
+🌱 Atualmente estou estudando: JAVA e Flutter
 
 📫 Contate-me: dennisbozzii@gmail.com
 
@@ -11,7 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisBozzi&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div width="100%" align="center"><br>
+<div width="100%" align="center" margin="0 0 10 0"><br>
   <img align="center" alt="Dennis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dennis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
