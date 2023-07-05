@@ -2,7 +2,7 @@
 
 🌱 Atualmente estou estudando: C# e JAVA
 
-📫 Contate-me: devbozzii@gmail.com 
+📫 Contate-me: dennisbozzii@gmail.com
 
 😄 Pronomes: ele/dele
 
