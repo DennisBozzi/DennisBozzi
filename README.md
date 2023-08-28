@@ -1,6 +1,6 @@
 <h1 width="100%" align="center">Olá! Me chamo Dennis</h1>
 
-🥑 Atualmente estou estudando: Java e Flutter
+🥑 Atualmente estou estudando: ASP.NET Core
 
 🍊 Contate-me: dennisbozzii@gmail.com
 
