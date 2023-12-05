@@ -1,8 +1,8 @@
 <h1 width="100%" align="center">Olá! Me chamo Dennis</h1>
 
-🥑 Atualmente estou estudando: .NET
+🥑 Atualmente estou estudando **.NET**
 
-🍎 Portfólio: https://dennisvfbozzi.web.app/
+🍎 [**Portfólio**](https://dennisvfbozzi.web.app/)
 
 
 
