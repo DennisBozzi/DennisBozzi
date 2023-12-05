@@ -4,10 +4,7 @@
 
 🍎 Portfólio: https://dennisvfbozzi.web.app/
 
-<div width="100%" align="center">
-  <a href="https://github.com/DennisBozzi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisBozzi&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 <div width="100%" align="center"><br>
   <img align="center" alt="Dennis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
