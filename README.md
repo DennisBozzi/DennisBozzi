@@ -2,7 +2,7 @@
 
 <p>🥑 Let's code together? Contact me! </p>
 <p>🍍 I love Asp.NET/ReactJs and Http requests :p</p>
-<p>🍌 To learn more about me, take a look at my 4 pinned projects!</p>
+<p>🍌 To learn more about me, take a look at my pinned projects!</p>
 
 <div width="100%" align="center"><br>
   
