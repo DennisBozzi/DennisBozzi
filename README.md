@@ -1,8 +1,7 @@
-<h1 width="100%" align="center">Olá! Me chamo Dennis</h1>
+<h1 width="100%" align="center">Hi! Im Dennis 😁</h1>
 
-🥑 Atualmente estou estudando **.NET**
-
-🍎 [**Portfólio**](https://dennisvfbozzi.web.app/)
+🥑 Let's code together? Contact me!
+I love Asp.NET/ReactJs and Http requests :p
 
 <div width="100%" align="center"><br>
   <img align="center" alt="Dennis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
