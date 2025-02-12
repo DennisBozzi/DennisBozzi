@@ -1,7 +1,8 @@
 <h1 width="100%" align="center">Hi! Im Dennis 😁</h1>
 
-🥑 Let's code together? Contact me! </br>
-I love Asp.NET/ReactJs and Http requests :p
+<p>🥑 Let's code together? Contact me! </p>
+</br></br>
+<p>🍍 I love Asp.NET/ReactJs and Http requests :p</p>
 
 <div width="100%" align="center"><br>
   <img align="center" alt="Dennis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
