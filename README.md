@@ -1,7 +1,7 @@
 <h1 width="100%" align="center">Hi! Im Dennis 😁</h1>
 
 <p>🥑 Let's code together? Contact me! </p>
-</br></br>
+</br>
 <p>🍍 I love Asp.NET/ReactJs and Http requests :p</p>
 
 <div width="100%" align="center"><br>
