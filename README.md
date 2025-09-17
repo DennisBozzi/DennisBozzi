@@ -1,7 +1,7 @@
 <h1 width="100%" align="center">Hi! I'm Dennis 😁</h1>
 
 <p>🥑 Let's code together? Contact me! </p>
-<p>🍍 I love Asp.NET, AngularJS and Http requests :p</p>
+<p>🍍 I love ASP.NET, AngularJS and Http requests :p</p>
 <p>🍌 To learn more about me, take a look at my pinned projects!</p>
 
 <div width="100%" align="center"><br>
