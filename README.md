@@ -4,7 +4,7 @@
 <p>🍍 I love ASP.NET, AngularJS and Http requests :p</p>
 <p>🍌 To learn more about me, take a look at my pinned projects!</p>
 
-<div width="100%" align="center"><br>
+<div width="100%"><br>
   
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg">
 
